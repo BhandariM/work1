@@ -82,7 +82,7 @@ final class StaticWordLibrary extends WordLibrary {
         "vertex",
         "unsigned",
         "traditional",
-        "Dr.AjayBandi"
+        "Dr.Ajay Bandi"
     };
 
     private static final String[] SCRAMBLED_WORD_LIST = {
@@ -131,7 +131,7 @@ final class StaticWordLibrary extends WordLibrary {
         "evtrxe",
         "nuisngde",
         "rtdatioialn",
-        "rDayandiB.jA"
+        "rDayandiB. jA"
     };
     
     final static WordLibrary DEFAULT = new StaticWordLibrary();
